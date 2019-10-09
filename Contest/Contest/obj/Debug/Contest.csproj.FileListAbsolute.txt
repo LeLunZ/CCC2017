@@ -1,0 +1,6 @@
+C:\Users\if150091\Desktop\Contest\Contest\bin\Debug\Contest.exe.config
+C:\Users\if150091\Desktop\Contest\Contest\bin\Debug\Contest.exe
+C:\Users\if150091\Desktop\Contest\Contest\bin\Debug\Contest.pdb
+C:\Users\if150091\Desktop\Contest\Contest\obj\Debug\Contest.csprojResolveAssemblyReference.cache
+C:\Users\if150091\Desktop\Contest\Contest\obj\Debug\Contest.exe
+C:\Users\if150091\Desktop\Contest\Contest\obj\Debug\Contest.pdb
